@@ -4,3 +4,4 @@ def function(test):
 continue
 
 def new_function 
+	return 3
