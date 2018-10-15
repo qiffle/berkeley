@@ -1,4 +1,6 @@
-def function(test): 
+def function(test):
 	return 4
 
-continue 
+continue
+
+def new_function 
